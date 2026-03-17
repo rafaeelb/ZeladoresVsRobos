@@ -34,7 +34,7 @@ Este projeto teve como foco:
 
 ## 📂 Como acessar o projeto
 
-Baixe diretamente e execute o arquivo `.exe` ou clone o repositório:
+Baixe diretamente e execute o arquivo `.exe` dentro da pasta game ou clone o repositório:
 
 ```bash
 git clone https://github.com/rafaeelb/ZeladoresVsRobos.git
